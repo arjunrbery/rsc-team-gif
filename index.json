@@ -1,0 +1,15 @@
+{
+    "blocks": [
+        {
+            "type": "text",
+            "text": "**Thanks for being awesome!**",
+            "markdown": false
+        },
+        {
+            "type": "image",
+            "url": "https://i.giphy.com/media/ITacRy2zH4vMQ/giphy.webp",
+            "title":"",
+            "altText": "A gif of a friendly pet!"
+        }
+    ]
+}
