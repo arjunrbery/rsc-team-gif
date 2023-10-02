@@ -2,12 +2,12 @@
     "blocks": [
         {
             "type": "text",
-            "text": "**Thanks for being awesome!**",
+            "text": "**Spooky Season Puppy!**",
             "markdown": false
         },
         {
             "type": "image",
-            "url": "https://i.giphy.com/media/ITacRy2zH4vMQ/giphy.webp",
+            "url": "https://i.giphy.com/media/gWOMUzd5ZjK7q164w5/giphy.webp",
             "title":"",
             "altText": "A gif of a friendly pet!"
         }
