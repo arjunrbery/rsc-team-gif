@@ -2,12 +2,12 @@
     "blocks": [
         {
             "type": "text",
-            "text": "**Spooky Season Kitty!**",
+            "text": "**Halloween Puppers!**",
             "markdown": false
         },
         {
             "type": "image",
-            "url": "https://i.giphy.com/media/QuEF3ge2qEXGsoziUl/giphy.webp",
+            "url": "https://i.giphy.com/media/iIXTaiiEf0jy4gHFFZ/giphy.webp",
             "title":"",
             "altText": "A gif of a friendly pet!"
         }
