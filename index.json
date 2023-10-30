@@ -2,12 +2,12 @@
     "blocks": [
         {
             "type": "text",
-            "text": "**Halloween is Nearly Here!**",
+            "text": "**Happy Halloween!**",
             "markdown": false
         },
         {
             "type": "image",
-            "url": "https://i.giphy.com/media/BRF2QmzB59VryBsgdQ/giphy.webp",
+            "url": "https://i.giphy.com/media/HyaasxrajvpeC3lTVH/giphy.webp",
             "title":"",
             "altText": "A gif of a friendly pet!"
         }
