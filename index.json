@@ -2,12 +2,12 @@
     "blocks": [
         {
             "type": "text",
-            "text": "**Happy Halloween!**",
+            "text": "**Happy November!**",
             "markdown": false
         },
         {
             "type": "image",
-            "url": "https://i.giphy.com/media/HyaasxrajvpeC3lTVH/giphy.webp",
+            "url": "https://i.giphy.com/media/8wcF0byGIbzxOaIVAc/giphy.webp",
             "title":"",
             "altText": "A gif of a friendly pet!"
         }
