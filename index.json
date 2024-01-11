@@ -2,12 +2,12 @@
     "blocks": [
         {
             "type": "text",
-            "text": "**Happy December!**",
+            "text": "**Thanks for checking in!**",
             "markdown": false
         },
         {
             "type": "image",
-            "url": "https://i.giphy.com/media/KtrhyNGwNCSYM4pVRq/giphy.webp",
+            "url": "https://i.giphy.com/l2uluGTvB7DAQvZyHp.webp",
             "title":"",
             "altText": "A gif of a friendly pet!"
         }
